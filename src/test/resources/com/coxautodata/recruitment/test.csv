@@ -1,0 +1,6 @@
+type,details
+rectangle,"{ ""length"" : 10, ""height"": 5 }"
+rectangle,"{ ""length"" : 22, ""height"": 11 }"
+rectangle,"{ ""length"" : 5, ""height"": 6}"
+rectangle,"{ ""length"" : 3, ""height"": 3 }"
+rectangle,"{ ""length"" : 13, ""height"": 12 }"

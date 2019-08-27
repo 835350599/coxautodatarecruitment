@@ -1,0 +1,12 @@
+type,details
+rectangle,"{ ""length"" : 10, ""height"": 5 }"
+circle,"{ ""radius"" : 6 }"
+rectangle,"{ ""length"" : 22, ""height"": 11 }"
+rectangle,"{ ""length"" : 5, ""height"": 6}"
+rectangle,"{ ""length"" : 3, ""height"": 3 }"
+rectangle,"{ ""length"" : 13, ""height"": 12 }"
+circle,"{ ""radius"" : 8 }"
+triangle,"{ ""base"" : 13, ""height"": 15}"
+circle,"{ ""radius"" : 12 }"
+circle,"{ ""radius"" : 4 }"
+triangle,"{ ""base"" : 5, ""height"": 7}"
