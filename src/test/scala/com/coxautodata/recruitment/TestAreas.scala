@@ -20,7 +20,7 @@ class TestAreas extends FunSpec with Matchers with BeforeAndAfter {
 
   describe("calculateTotalArea") {
     it("should calculate the total area for all shapes in the file") {
-      println(Areas.calculateTotalArea(spark, getClass.getResource("test.csv").getPath))
+      Areas.calculateTotalArea(spark, getClass.getResource("test.csv").getPath) should be(487)
     }
   }
 }
