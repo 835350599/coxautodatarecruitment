@@ -154,3 +154,5 @@ metastore_db
 sbt
 sbt.bat
 sbt-dist/
+.bsp/
+null/
